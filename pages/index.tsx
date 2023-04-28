@@ -33,10 +33,10 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
               <Link href="/help-center">At AtlasFoundation.AI, we understand that communication is key to success in any industry.</Link> This is why we have developed Atlas Avatars, the next generation of AI-powered communication tools that provide an entirely new dimension to communication. Our avatars seamlessly blend human-like features with advanced artificial intelligence to deliver an immersive experience that engages and captivates your audience.
             </p>
           </BasicSection>
-          <BasicSection imageUrl="/demo-illustration-2.svg" title="Lorem ipsum dolor sit." overTitle="lorem ipsum" reversed>
+          <BasicSection imageUrl="/demo-illustration-2.svg" title="AtlasFoundation.AI's state-of-the-art Avatars." overTitle="Bring your brand to life with" reversed>
             <p>
-            Bring your brand to life with AtlasFoundation.AI's state-of-the-art Avatars.
-              <strong>Our Avatars are tailored to your needs and are fully customizable to represent your unique brand identity.</strong>.  With our Avatars, you can offer an unparalleled digital experience to potential clients, customers, and partners. Our Avatars provide an innovative and personalized platform for digital communication, allowing you to showcase your products and services with ease.
+            Our Avatars are tailored to your needs and are fully customizable to represent your unique brand identity.
+              <strong>With our Avatars, you can offer an unparalleled digital experience to potential clients, customers, and partners.</strong> Our Avatars provide an innovative and personalized platform for digital communication, allowing you to showcase your products and services with ease.
             </p>
             <ul>
               <li>AI-Powered Conversational Interfaces</li>
