@@ -13,21 +13,20 @@ export default function Cta() {
     <CtaWrapper>
       <Container>
         <Stack>
-          <OverTitle>Lorem ipsum dolor sit amet</OverTitle>
-          <SectionTitle>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus delectus?</SectionTitle>
+          <OverTitle>Increasing Intelligence</OverTitle>
+          <SectionTitle>Atlas AI is changing the game with Atlas Avatars, are you ready?</SectionTitle>
           <Description>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda beatae accusamus deleniti nihil quas tempora numquam, vitae
-            culpa.
+            Atlas Avatars are AI guides designed to help you navigate the world. Go on a journey with Atlas AI at your side and reach your goals faster.
           </Description>
           <ButtonGroup>
             <NextLink href="#early-access" passHref>
               <Button>
-                Subscribe to the newsletter <span>&rarr;</span>
+                Sign up for Beta <span>&rarr;</span>
               </Button>
             </NextLink>
             <NextLink href="#whitepaper" passHref>
               <OutlinedButton transparent>
-                Features <span>&rarr;</span>
+                Learn More <span>&rarr;</span>
               </OutlinedButton>
             </NextLink>
           </ButtonGroup>
