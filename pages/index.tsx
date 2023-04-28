@@ -35,7 +35,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
           </BasicSection>
           <BasicSection imageUrl="/demo-illustration-2.svg" title="Lorem ipsum dolor sit." overTitle="lorem ipsum" reversed>
             <p>
-            Bring your brand to life with AtlasFoundation.AI's state-of-the-art Avatars.  {' '}
+            Bring your brand to life with AtlasFoundation.AI's state-of-the-art Avatars.{' '}
               <strong>Our Avatars are tailored to your needs and are fully customizable to represent your unique brand identity.</strong>.  With our Avatars, you can offer an unparalleled digital experience to potential clients, customers, and partners. Our Avatars provide an innovative and personalized platform for digital communication, allowing you to showcase your products and services with ease.
             </p>
             <ul>
