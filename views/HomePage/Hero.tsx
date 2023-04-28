@@ -15,9 +15,9 @@ export default function Hero() {
     <HeroWrapper>
       <Contents>
         <CustomOverTitle>the coolest AI applications you have ever seen</CustomOverTitle>
-        <Heading>Make your job easier with AI</Heading>
+        <Heading>Welcome to AtlasFoundation.AI</Heading>
         <Description>
-          Atlas Foundation is proud to offer a variety of AI services designed to make your job easier, from large language models, computer vision, image generation, digital twins, and Atlas Avatars AI guides.  
+        The premier destination for cutting-edge technology and informed innovation. Our expertise lies in Atlas Avatars, 3D AI guides that are the ultimate resource for intelligent, effective communication..  
         </Description>
         <CustomButtonGroup>
           <Button onClick={() => setIsModalOpened(true)}>
