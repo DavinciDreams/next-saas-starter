@@ -29,8 +29,8 @@ export default function ScrollableBlogPosts({ posts }: ScrollableBlogPostsProps)
     <Section>
       <Container>
         <Content>
-          <OverTitle>features</OverTitle>
-          <SectionTitle>What are you signing in for?</SectionTitle>
+          <OverTitle>Awesome AI features</OverTitle>
+          <SectionTitle>Why should you choose Atlas Foundation?</SectionTitle>
         </Content>
       </Container>
 
