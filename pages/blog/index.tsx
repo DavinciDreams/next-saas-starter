@@ -10,7 +10,7 @@ export default function BlogIndexPage({ posts }: InferGetStaticPropsType<typeof 
   return (
     <Page
       title="Atlas Foundation Blog"
-      description="Culpa duis reprehenderit in ex amet cillum nulla do in enim commodo. Sunt ut excepteur et est aliqua anim ea excepteur fugiat voluptate. Fugiat exercitation dolore laboris do quis consectetur eiusmod tempor consequat."
+      description="Open Source AI/ML in 3D: Measuring our past, monitoring our present, and mapping our future."
     >
       <CustomAutofitGrid>
         {posts.map((singlePost, idx) => (
