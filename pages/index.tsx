@@ -27,24 +27,21 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
         <WhiteBackgroundContainer>
           <Hero />
           <Partners />
-          <BasicSection imageUrl="/demo-illustration-1.svg" title="Lorem ipsum dolor sit amet consectetur." overTitle="sit amet gogo">
+          <BasicSection imageUrl="/demo-illustration-1.svg" title="Immersive 3D Avatars for Digital Communication" overTitle="Intelligent Agents">
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore
-              voluptate quo deleniti animi laboriosam.{' '}
-              <Link href="/help-center">Possimus ullam velit rem itaque consectetur, in distinctio?</Link> Lorem ipsum, dolor sit amet
-              consectetur adipisicing elit. Soluta repellendus quia quos obcaecati nihil. Laudantium non accusantium, voluptate eum nesciunt
-              at suscipit quis est soluta?
+            Welcome to AtlasFoundation.AI, the premier destination for cutting-edge technology and informed innovation. Our expertise lies in Atlas Avatars, 3D AI guides that are the ultimate resource for intelligent, effective communication.{' '}
+              <Link href="/help-center">At AtlasFoundation.AI, we understand that communication is key to success in any industry.</Link> This is why we have developed Atlas Avatars, the next generation of AI-powered communication tools that provide an entirely new dimension to communication. Our avatars seamlessly blend human-like features with advanced artificial intelligence to deliver an immersive experience that engages and captivates your audience.
             </p>
           </BasicSection>
           <BasicSection imageUrl="/demo-illustration-2.svg" title="Lorem ipsum dolor sit." overTitle="lorem ipsum" reversed>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore{' '}
-              <strong>voluptate quo deleniti animi laboriosam</strong>. Possimus ullam velit rem itaque consectetur, in distinctio?
+            Bring your brand to life with AtlasFoundation.AI's state-of-the-art Avatars.  {' '}
+              <strong>Our Avatars are tailored to your needs and are fully customizable to represent your unique brand identity.</strong>.  With our Avatars, you can offer an unparalleled digital experience to potential clients, customers, and partners. Our Avatars provide an innovative and personalized platform for digital communication, allowing you to showcase your products and services with ease.
             </p>
             <ul>
-              <li>Professional point 1</li>
-              <li>Professional remark 2</li>
-              <li>Professional feature 3</li>
+              <li>AI-Powered Conversational Interfaces</li>
+              <li>Computer Vision and Machine Learning Algorithms</li>
+              <li>Personalized Consultation Services</li>
             </ul>
           </BasicSection>
         </WhiteBackgroundContainer>
