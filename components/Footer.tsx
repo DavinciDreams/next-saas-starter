@@ -69,7 +69,7 @@ export default function Footer() {
               </a>
             </NextLink>
 
-            <NextLink href="https://www.linkedin.com/atlas-mundi-foundation" passHref>
+            <NextLink href="https://www.linkedin.com/company/atlas-mundi-foundation" passHref>
               <a>
                 <LinkedinIcon size={50} round={true} />
               </a>
