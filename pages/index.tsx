@@ -29,7 +29,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
           <Partners />
           <BasicSection imageUrl="/demo-illustration-1.svg" title="Immersive 3D Avatars for Digital Communication" overTitle="Intelligent Agents">
             <p>
-            Welcome to AtlasFoundation.AI, the premier destination for cutting-edge technology and informed innovation. Our expertise lies in Atlas Avatars, 3D AI guides that are the ultimate resource for intelligent, effective communication.{' '}
+            With Atlas Avatars, you can take your digital interactions to a whole new level. From e-learning to product demos, corporate training to customer service, Atlas Avatars provide the perfect platform for sharing knowledge and providing an engaging experience to users. Enhance your brand with Atlas Avatars and provide users with an engaging, authentic experience that they will never forget.{' '}
               <Link href="/help-center">At AtlasFoundation.AI, we understand that communication is key to success in any industry.</Link> This is why we have developed Atlas Avatars, the next generation of AI-powered communication tools that provide an entirely new dimension to communication. Our avatars seamlessly blend human-like features with advanced artificial intelligence to deliver an immersive experience that engages and captivates your audience.
             </p>
           </BasicSection>
